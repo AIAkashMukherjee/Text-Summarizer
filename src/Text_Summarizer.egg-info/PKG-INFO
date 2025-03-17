@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: Text-Summarizer
+Version: 0.0.1
+Summary: A small python package for ml app
+Author: Akash
+Author-email: akashmukherjee0000@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
